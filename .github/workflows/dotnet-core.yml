@@ -29,7 +29,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
         license: ${{ secrets.NDependLicense }}
         customconfig: NDependConfigFile.ndproj
-        baseline: 283
+        baseline: 11863028087
         retention-days: 1
         stopIfQGFailed: false
         
